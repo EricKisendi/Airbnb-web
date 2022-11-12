@@ -1,0 +1,11 @@
+.content1 > h1{
+    margin-top: 47%;
+    font-family:Quicksand;
+    width: 100%;
+    padding: 10px 5px 0px 3px;
+}
+.content1 > p {
+    font-family: Poppins;
+    font-size: 16px;
+    padding: 1px 5px;
+}

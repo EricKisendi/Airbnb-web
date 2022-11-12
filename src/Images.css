@@ -1,0 +1,121 @@
+.Img1{
+    position:absolute;
+    max-width: 150px;
+    max-height: 200px;
+    border-radius: 10px;
+    top: 199px;
+    object-fit: cover;
+    left: 270px;
+}
+.Img2{
+    position:absolute;
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 10px;
+    object-fit: cover;
+    left: 425px;
+    top: 150px;
+}
+.Img3{
+    position:absolute;
+    max-width: 150px;
+    max-height: 200px;
+    border-radius: 10px;
+    top: 255px;
+    object-fit: cover;
+    left: 425px;
+}
+.Img4{
+    position:absolute;
+    max-width: 150px;
+    max-height: 200px;
+    border-radius: 10px;
+    top: 175px;
+    object-fit: cover;
+    left: 580px;
+}
+.Img5{
+    position:absolute;
+    max-width: 150px;
+    max-height: 240px;
+    border-radius: 10px;
+    object-fit: cover;
+    top: 380px;
+    left: 580px;
+}
+.Img6{
+    position:absolute;
+    max-width: 150px;
+    max-height: 240px;
+    border-radius: 10px;
+    top: 130px;
+    object-fit: cover;
+    left: 735px;
+}
+.Img7{
+    position:absolute;
+    max-width: 150px;
+    max-height: 240px;
+    border-radius: 10px;
+    object-fit: cover;
+    top: 328px;
+    left: 735px;
+}
+.Img8{
+    position:absolute;
+    max-width: 150px;
+    max-height: 240px;
+    border-radius: 10px;
+    object-fit: cover;
+    top: 255px;
+    left: 890px;
+}
+.gallery{
+    display: block;
+}
+@media screen and (max-width: 768px){
+    .Img1{
+        left: 10%;
+        max-width: 15%;
+        top: 20%;
+    }
+    .Img2{
+        left:25.5%;
+        max-width: 15%;
+        top: 15.5%;
+    }
+    .Img3{
+        left: 25.5%;
+        max-width: 15%;
+        top: 25.7%;
+    }
+    .Img4{
+        max-width: 15%;
+        left: 41%;
+        top: 18%;
+    }
+    .Img5{
+        left: 41%;
+        max-width: 15%;
+        top: 38.45%;
+    }
+    .Img6{
+        left: 56.7%;
+        max-width: 15%;
+        top: 13%;
+    }
+    .Img7{
+        max-width: 15%;
+        left: 56.7%;
+        top: 32.8%;
+    }
+    .Img8{
+        left: 72.2%;
+        top: 25%;
+        max-width: 15%;
+    }
+    .gallery > img{
+       float: left;
+    }
+}
+

@@ -1,0 +1,20 @@
+.Icon{
+    height: 20px;
+    color: #FF00E4;
+    padding: 10px 12px;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+}
+.Navigation{
+    display: flex;
+    align-items: center;
+    box-shadow: 0px .5px 5px black;
+    height: 65px;
+    font-family:Lobster;
+    color: #a32e97;
+    background-color: #9dce90;
+}
+.Head1{
+    font-size: 25px;
+}
