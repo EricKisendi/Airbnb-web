@@ -1,0 +1,24 @@
+.sec1 > img{
+    width: 200px;
+    max-height: 250px;
+    border-radius: 12px;
+    align-self: center;
+    object-fit: cover;
+    box-shadow: 2px 2px 3px black;
+}
+.sec1{
+    padding: 5px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    margin:2px;
+    border-radius: 10px;
+}
+.desc1{
+    text-align: left;
+    padding: 0px 5px;
+}
+.Star{
+    color: #FF1E1E;
+    padding-right:4px ;
+}

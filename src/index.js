@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import Navbar from './Navbar.js'
 import Images from './Images.js';
 import Content from './Content.js';
+import App from './App.js'
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 
@@ -12,7 +13,9 @@ function Main(){
       <Navbar/>
       <Images />
       <Content />
+      <App />
     </div>
+      
   )
 }
 
